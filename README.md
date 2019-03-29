@@ -6,7 +6,6 @@
 
 ```
 $ cp .env.example .env
-$ cp slack_users_example.rb slack_users.rb
 ```
 
 `.env`、`slack_users.rb`の値を環境に合わせて変更してください。
